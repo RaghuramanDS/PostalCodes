@@ -1,0 +1,1340 @@
+State	 Location 	Latitude 	Longitude	PIN code		
+Andhra Pradesh	 Adilabad 	19.62	78.50	504001		
+Andhra Pradesh	 Adoni 	15.63	77.32	518301		
+Andhra Pradesh	 Alampur 	15.90	78.18	509152		
+Andhra Pradesh	 Allur 	14.68	80.08	524315		
+Andhra Pradesh	 Alur 	15.40	77.27	563131		
+Andhra Pradesh	 Amaravati 	16.83	80.25			
+Andhra Pradesh	 Anakapalle 	17.68	83.05	531001		
+Andhra Pradesh	 Anantapur 	14.68	77.65	515001		
+Andhra Pradesh	 Armur 	18.80	78.27			
+Andhra Pradesh	 Atmakur 	14.62	79.67	502292		
+Andhra Pradesh	 Balkonda 	19.08	78.33	503217		
+Andhra Pradesh	 Banganpalle 	15.32	78.28			
+Andhra Pradesh	 Bapatala 	15.90	80.50			
+Andhra Pradesh	 Bhadrachalam 	17.67	80.93	507111		
+Andhra Pradesh	 Bhainsa 	19.17	77.97	504103		
+Andhra Pradesh	 Bimlipatnam 	17.88	83.50			
+Andhra Pradesh	 Bobbili 	18.57	83.42			
+Andhra Pradesh	 Bodhan 	18.65	77.83	503185		
+Andhra Pradesh	 Chinnur 	19.12	79.72			
+Andhra Pradesh	 Chipurupalle 	17.50	83.20			
+Andhra Pradesh	 Chittoor 	13.22	79.13	515412		
+Andhra Pradesh	" Circars, Northern "	17.00	83.50			
+Andhra Pradesh	 Coringa 	16.80	82.27			
+Andhra Pradesh	 Cuddapah 	14.47	78.87	516001		
+Andhra Pradesh	 Cumbum 	15.57	79.15	523333		
+Andhra Pradesh	 Darsi 	15.77	79.73			
+Andhra Pradesh	 Devarkonda 	16.70	78.97			
+Andhra Pradesh	 Dharmavaram 	14.40	77.00	515671		
+Andhra Pradesh	 Eluru 	16.72	81.15	534001		
+Andhra Pradesh	 Erramala Range 	15.33	78.00			
+Andhra Pradesh	 Gadwal 	16.22	77.80	509125		
+Andhra Pradesh	 Godavari R. 	16.58	82.25			
+Andhra Pradesh	 Golconda 	17.38	78.45	500008		
+Andhra Pradesh	 Gooty 	15.12	77.68	515401		
+Andhra Pradesh	 Gudur 	14.15	79.90	506134		
+Andhra Pradesh	 Guntakal 	15.18	77.42	515801		
+Andhra Pradesh	 Guntur 	16.30	80.48	522001		
+Andhra Pradesh	 Gurramkonda 	13.78	78.63			
+Andhra Pradesh	 Gurzalla 	16.50	78.93			
+Andhra Pradesh	 Hanamkonda 	18.17	79.77	506001		
+Andhra Pradesh	 Hindupur 	13.82	77.53	515201		
+Andhra Pradesh	 Hyderabad 	17.33	78.50	500001		
+Andhra Pradesh	 Ichchapuram 	19.12	84.73			
+Andhra Pradesh	 Jaggayyapeta 	16.87	80.15			
+Andhra Pradesh	 Jagtiyal 	18.80	79.15			
+Andhra Pradesh	 Jammalamadugu 	14.85	78.42			
+Andhra Pradesh	 Kadiri 	14.12	78.23	515591		
+Andhra Pradesh	 Kakinada 	16.95	82.25	533001		
+Andhra Pradesh	 Kalahasti 	13.75	79.73			
+Andhra Pradesh	 Kalingapatnam 	18.33	84.17			
+Andhra Pradesh	 Kamareddi 	18.30	78.37			
+Andhra Pradesh	 Kampli 	15.42	76.65	583132		
+Andhra Pradesh	 Kandi 	17.60	78.08	502285		
+Andhra Pradesh	 Kandukur 	15.20	79.95	509359		
+Andhra Pradesh	 Kanigiri 	15.38	79.53			
+Andhra Pradesh	 Karimnagar 	18.47	79.10	505001		
+Andhra Pradesh	 Kavali 	14.92	80.05	524201		
+Andhra Pradesh	 Khammam 	17.25	80.18	507001		
+Andhra Pradesh	 Kodangal 	17.13	77.60	509338		
+Andhra Pradesh	 Kohir 	17.58	77.67	502210		
+Andhra Pradesh	 Koilkonda 	16.75	77.83			
+Andhra Pradesh	 Koilkuntla 	15.45	78.30			
+Andhra Pradesh	 Kondapalli 	16.63	80.60			
+Andhra Pradesh	 Koratla 	18.72	78.68	505326		
+Andhra Pradesh	 Kosgi 	17.00	77.72	509339		
+Andhra Pradesh	 Kotagudem 	17.50	80.67			
+Andhra Pradesh	" Krishna (Kistna), "	15.92	81.17			
+Andhra Pradesh	 Kurnool 	15.83	78.08	505101		
+Andhra Pradesh	 Machilipatnam 	16.15	81.20	521001		
+Andhra Pradesh	 Madakasira 	13.95	77.32	515301		
+Andhra Pradesh	 Mahbubnagar 	16.70	77.97			
+Andhra Pradesh	 Mangalagiri 	16.43	80.60	522503		
+Andhra Pradesh	 Markapur 	15.73	79.32	523316		
+Andhra Pradesh	 Medak 	18.05	78.30	502001		
+Andhra Pradesh	 Mudhol 	19.00	77.87	583259		
+Andhra Pradesh	 Nagar Karnul 	16.50	78.32			
+Andhra Pradesh	 Nalgonda 	17.05	79.03	508001		
+Andhra Pradesh	 Nallamalai Range 	15.00	78.63			
+Andhra Pradesh	 Nandigama 	16.77	80.33	521185		
+Andhra Pradesh	 Nandikotkur 	15.87	78.30			
+Andhra Pradesh	 Nandyal 	15.48	78.53	518501		
+Andhra Pradesh	 Narasapur 	16.43	81.75			
+Andhra Pradesh	 Narasaraopet 	16.23	77.45			
+Andhra Pradesh	 Narayanpet 	16.77	77.45	509210		
+Andhra Pradesh	 Narsipatnam 	17.67	82.65	531116		
+Andhra Pradesh	 Nellore 	14.45	80.03	524001		
+Andhra Pradesh	 Nirmal 	19.10	78.42	504106		
+Andhra Pradesh	 Nizamabad 	18.67	78.17	276206		
+Andhra Pradesh	 Nizampatnam 	15.90	80.72	522314		
+Andhra Pradesh	 Pakala 	13.05	79.00	517112		
+Andhra Pradesh	 Palakollu 	16.52	81.77			
+Andhra Pradesh	 Palkonda 	18.60	83.80			
+Andhra Pradesh	 Palkonda Range 	13.08	79.03			
+Andhra Pradesh	 Patancheru 	17.60	78.03			
+Andhra Pradesh	 Pattikonda 	15.40	77.07			
+Andhra Pradesh	 Peddapuram 	17.08	82.18	533437		
+Andhra Pradesh	 Penukonda 	14.08	77.63			
+Andhra Pradesh	 Pithapuram 	17.12	82.32	533450		
+Andhra Pradesh	 Podili 	15.60	79.65			
+Andhra Pradesh	 Port Blair 	11.68	92.72	744101		
+Andhra Pradesh	 Proddatur 	14.75	78.58	516360		
+Andhra Pradesh	 Pullivendla 	14.43	78.27			
+Andhra Pradesh	 Punganuru 	13.42	78.62			
+Andhra Pradesh	 Pyapalli 	15.23	77.78			
+Andhra Pradesh	 Rajahumundry 	17.00	81.80			
+Andhra Pradesh	 Ramallakota 	15.58	78.03			
+Andhra Pradesh	 Rapur 	14.20	79.60	524408		
+Andhra Pradesh	 Rauachoti 	14.07	78.08			
+Andhra Pradesh	 Rayadrug 	14.70	76.88			
+Andhra Pradesh	 Rekapalle 	17.57	81.03			
+Andhra Pradesh	 Repalle 	16.03	80.88	522265		
+Andhra Pradesh	 Sadaseopet 	17.07	77.97			
+Andhra Pradesh	 Samalkot 	17.05	82.22	533440		
+Andhra Pradesh	 Sangareddipet 	17.58	78.03			
+Andhra Pradesh	 Sattenapalle 	16.40	80.18	522403		
+Andhra Pradesh	 Satur 	18.52	83.25			
+Andhra Pradesh	 Secunderabad 	17.45	78.55	500003		
+Andhra Pradesh	 Seshachalam Hills 	14.02	78.05			
+Andhra Pradesh	 Sidhout 	14.47	79.02			
+Andhra Pradesh	 Sidipett 	18.12	78.08			
+Andhra Pradesh	 Tadpatri 	14.93	78.03			
+Andhra Pradesh	 Tandur 	17.28	77.50	501141		
+Andhra Pradesh	 Tanuku 	16.75	81.73	534211		
+Andhra Pradesh	 Tenali 	16.25	80.58	522201		
+Andhra Pradesh	 Tirupati 	13.67	79.33	517501		
+Andhra Pradesh	 Tungabhadra R. 	15.97	78.30			
+Andhra Pradesh	 Tuni 	17.35	82.54			
+Andhra Pradesh	 Udayagiri 	14.87	79.32	524226		
+Andhra Pradesh	 Vayalpad 	13.80	78.67	517299		
+Andhra Pradesh	 Vemalwada 	18.50	78.93			
+Andhra Pradesh	 Venkatagiri 	13.95	79.58			
+Andhra Pradesh	 Venkatapuram 	18.28	80.60	500015		
+Andhra Pradesh	 Vijayawada 	16.52	80.65	520001		
+Andhra Pradesh	 Vinukonda 	16.07	79.78			
+Andhra Pradesh	 Vizianagram 	18.12	83.45			
+Andhra Pradesh	 Waltair 	17.73	83.38			
+Andhra Pradesh	 Warangal 	17.97	79.67	506001		
+Andhra Pradesh	 Yaham 	16.73	82.27			
+Andhra Pradesh	 Yellandu 	17.62	80.38	507123		
+Andhra Pradesh	 Yemmiganur 	15.77	77.52	518360		
+Andhra Pradesh	 Yernagudem 	16.98	81.55			
+Arunachal Pradesh	 Itanagar 	27.13	93.67	791111		
+Arunachal Pradesh	 Patkal Hills 	27.00	95.05			
+Arunachal Pradesh	 Tawang 	27.55	91.80			
+Assam	 Barpeta 	26.32	91.00	781301		
+Assam	 Bilasipara 	26.23	90.23			
+Assam	 Bongaigaon 	26.47	90.57	781375		
+Assam	 Dhekiajuli 	26.70	92.50	784110		
+Assam	 Dhubri 	26.03	89.97	783126		
+Assam	 Dibrugarh 	27.48	94.90	785011		
+Assam	 Digboi 	27.38	95.63	786171		
+Assam	 Diphu 	25.83	93.43	782448		
+Assam	 Gauripur 	26.08	89.97			
+Assam	 Goalpara 	26.17	90.62	783101		
+Assam	 Golaghat 	26.52	93.97	782470		
+Assam	 Guwahati 	26.18	91.73	781001		
+Assam	 Haflong 	25.18	93.03	788818		
+Assam	 Hailakandi 	24.68	92.57	788151		
+Assam	 Hojai 	26.00	92.87	782435		
+Assam	 Jorhat 	26.75	94.22	785001		
+Assam	 Karimganj 	24.87	92.35	788145		
+Assam	 Kokrajhar 	26.40	90.27	783325		
+Assam	 Lanka 	25.92	92.95	782446		
+Assam	 Margherita 	27.28	95.68	786181		
+Assam	 Mariani 	26.67	94.33	785634		
+Assam	 Nagaon 	26.35	92.68	782001		
+Assam	 Nalbari 	26.42	91.43	781126		
+Assam	 North Lakhimpur 	27.23	94.12	784160		
+Assam	 Rangia 	26.47	91.63	781354		
+Assam	 Sibsagar 	26.98	94.63	785010		
+Assam	 Silchar 	24.82	92.80	788001		
+Assam	 Tezpur 	26.63	92.80	783348		
+Assam	 Tinsukia 	27.50	95.37	786125		
+Bihar	 Arrah 	25.57	84.53	801119		
+Bihar	 Aurangabad 	24.75	84.42	221001		
+Bihar	 Bankipore 	25.67	85.20			
+Bihar	 Barwa 	23.17	84.22	125045		
+Bihar	 Bettiah 	26.80	84.55	845438		
+Bihar	 Bhagalpur 	25.25	87.02	812001		
+Bihar	 Buddh Gaya 	24.68	85.03			
+Bihar	 Buxar 	25.57	84.02	802101		
+Bihar	 Chhapra 	25.78	84.78			
+Bihar	 Colgong 	25.27	87.28	813203		
+Bihar	 Darbhanga (Laheriasarai) 	26.17	85.95			
+Bihar	 Dhankkgain 	25.23	84.28			
+Bihar	 Dinapore 	25.63	85.08			
+Bihar	 Dumraon 	25.55	84.20			
+Bihar	 Gandak R. 	26.50	84.50			
+Bihar	 Gaya 	24.78	85.02	804403		
+Bihar	 Gogri 	25.47	86.63	851102		
+Bihar	 Gopalganj 	26.47	84.43	841405		
+Bihar	 Hajipur 	25.68	85.95	144221		
+Bihar	 Jamalpur 	25.32	85.53	811214		
+Bihar	 Jyanagar 	26.58	86.15			
+Bihar	 Kantai 	26.52	85.35			
+Bihar	 Kathihar 	25.50	87.67			
+Bihar	 Kishanganj 	26.17	87.03	811301		
+Bihar	 Mankheri 	23.67	84.55			
+Bihar	 Mokameh 	25.40	85.92			
+Bihar	 Motihari 	26.67	85.23	845120		
+Bihar	 Munger 	25.38	86.50	811102		
+Bihar	 Muzaffarpur 	26.12	85.45	835221		
+Bihar	 Nawada 	24.88	85.58	805101		
+Bihar	 Naya Dumka 	24.50	87.33			
+Bihar	 Patna 	25.62	85.22	800001		
+Bihar	 Purnia 	25.82	87.52	853206		
+Bihar	 Safanda 	22.27	85.25			
+Bihar	 Sagaull 	26.78	84.80			
+Bihar	 Saharsa 	25.92	86.58	847451		
+Bihar	 Samastipur 	25.92	85.08	848101		
+Bihar	 Sasaram 	24.95	84.05	821115		
+Bihar	 Shelkhupura 	25.15	85.88			
+Bihar	 Tekari 	24.95	84.88	824236		
+Chandigarh	 Chandigarh 	30.74	76.23	160001		
+Chattisgarh	 Ambikapur 	23.17	83.25	497001		
+Chattisgarh	" Bastar, district "	19.17	81.50			
+Chattisgarh	 Bhopalpatnam 	18.83	80.40	494446		
+Chattisgarh	 Bilaspur 	22.08	82.22	135102		
+Chattisgarh	 Chalgali 	23.13	83.70			
+Chattisgarh	 Champa 	22.03	82.72	495671		
+Chattisgarh	 Chintalnar 	18.33	81.30			
+Chattisgarh	 Dhamtari 	20.70	81.57	493773		
+Chattisgarh	 Dharmjaygarh (Rabkob) 	22.13	83.25			
+Chattisgarh	 Dongargarh 	21.03	80.83	491445		
+Chattisgarh	 Durg (Drug) 	21.02	81.35			
+Chattisgarh	 Indravati R. 	19.05	81.00			
+Chattisgarh	 Jagdalpur 	19.08	82.07	494001		
+Chattisgarh	 Jashpurnagar 	22.88	84.20			
+Chattisgarh	 Kanker 	20.08	81.53	494224		
+Chattisgarh	 Kawardha 	22.00	81.28	491995		
+Chattisgarh	 Khairagarh 	21.43	81.03	491881		
+Chattisgarh	 Kutru 	19.05	80.88			
+Chattisgarh	 Makri 	19.75	81.97			
+Chattisgarh	 Mmahendragarh 	23.02	82.35			
+Chattisgarh	 Pandaria 	22.25	81.45	495337		
+Chattisgarh	 Parlakot 	19.75	80.80			
+Chattisgarh	 Partabpur 	19.98	80.08	141305		
+Chattisgarh	 Pathri 	19.03	76.05	431506		
+Chattisgarh	 Phuljhar 	21.23	82.90			
+Chattisgarh	 Raipur 	21.08	81.68	248008		
+Chattisgarh	 Raj Nandgaon 	21.08	81.08			
+Chattisgarh	 Rajim 	20.98	81.92	493885		
+Chattisgarh	 Ramkola 	23.07	83.13	274305		
+Chattisgarh	 Sakti 	22.02	83.00	495689		
+Delhi	 Shahdara 	28.07	77.03	110032		
+Goa	 Marmagao 	15.42	73.72			
+Goa	 Panaji (Nova Goa) 	15.05	73.92			
+Gujrat	 Ahmadabad 	23.05	72.67			
+Gujrat	 Amreli 	21.60	71.25	364431		
+Gujrat	 Anand 	22.53	73.00	370465		
+Gujrat	 Anklesvar 	21.63	73.03			
+Gujrat	 Bansda 	20.75	73.47			
+Gujrat	 Baroda 	25.42	77.17	124304		
+Gujrat	 Bedi 	22.53	70.03			
+Gujrat	 Bela I. 	23.80	70.83			
+Gujrat	 Bharuch 	21.68	73.02	391170		
+Gujrat	 Bhavnagar 	21.77	72.18	364001		
+Gujrat	 Bhuj 	23.25	69.82	370001		
+Gujrat	 Bulsar 	20.60	72.98			
+Gujrat	 Chota Udaipur 	22.30	74.13			
+Gujrat	 Dabhoi 	22.18	73.42	384328		
+Gujrat	 Dahej 	21.70	72.63	392130		
+Gujrat	 Datha 	21.20	72.00	364130		
+Gujrat	 Dedan 	21.00	71.37	364550		
+Gujrat	 Dhandhuka 	22.35	72.03	382460		
+Gujrat	 Dharampur 	20.53	73.22	396050		
+Gujrat	 Dholera 	22.25	72.25	382455		
+Gujrat	 Dholka 	22.73	72.48	387810		
+Gujrat	 Dhoraji 	21.75	70.62			
+Gujrat	 Dhrangadhra 	22.98	71.52	363310		
+Gujrat	 Disa 	24.23	72.22	385535		
+Gujrat	 Dohad 	22.88	74.32	360540		
+Gujrat	 Dwarka 	22.23	69.02	361335		
+Gujrat	 Ghantila 	23.17	71.17			
+Gujrat	 Gir Forest 	21.00	71.00			
+Gujrat	 Godhra 	22.75	73.67	389001		
+Gujrat	 Gondal 	21.92	70.87	360311		
+Gujrat	 Himadnagar 	23.70	73.03			
+Gujrat	 Idar 	23.83	73.03	383430		
+Gujrat	 Jafarabad 	20.87	71.42			
+Gujrat	 Jakhau 	23.23	68.75	370640		
+Gujrat	 Jamnagar 	22.45	70.12	360405		
+Gujrat	 Jasdan 	22.07	72.52	360050		
+Gujrat	 Junagadh 	21.52	70.60	360560		
+Gujrat	" Kachchh, Gt. Rann of "	24.00	70.00			
+Gujrat	" Kachchh, Gulf of "	22.58	69.67			
+Gujrat	" Kachchh, Little Rann of "	23.43	71.33			
+Gujrat	 Kadi 	23.30	72.38	382715		
+Gujrat	 Kalol 	23.25	72.55	382721		
+Gujrat	 Kandia 	23.00	70.17			
+Gujrat	 Kathiawar Peninsula 	22.00	71.00			
+Gujrat	 Khadir I. 	23.83	70.70			
+Gujrat	" Khambhat, Gulf of "	21.00	72.50			
+Gujrat	 Kharaghoda 	23.20	72.25	382760		
+Gujrat	 Kheda 	22.75	72.75	387411		
+Gujrat	 Khedrahma 	24.05	73.07			
+Gujrat	 Kheralu 	23.90	72.67	384325		
+Gujrat	 Khmbhat 	22.32	72.63			
+Gujrat	 Lakhpat 	23.82	68.80	370630		
+Gujrat	 Lakhtar 	22.87	71.85	382775		
+Gujrat	 Limbdi 	22.57	71.88	363421		
+Gujrat	 Lunavada 	22.13	73.62			
+Gujrat	 Magori 	23.30	73.40			
+Gujrat	 Mahesana 	23.70	72.62	382655		
+Gujrat	 Mahi R. 	22.33	73.08			
+Gujrat	 Mahuva 	21.17	71.75	364290		
+Gujrat	 Malia 	23.15	71.37			
+Gujrat	 Mandvi 	22.85	68.53	370465		
+Gujrat	 Mangral 	21.13	70.23			
+Gujrat	 Mehmadabad 	22.83	72.80	380050		
+Gujrat	 Modasa 	23.47	73.35	383315		
+Gujrat	 Morbi 	22.82	70.90	363641		
+Gujrat	 Mundra 	22.82	69.87	370421		
+Gujrat	 Naenwa 	22.68	72.92			
+Gujrat	 Nandod 	21.90	73.57			
+Gujrat	 Navanagar(Jamnagar) 	22.45	70.12			
+Gujrat	 Navsari 	21.12	73.67	363334		
+Gujrat	 Pachham 	23.93	69.08			
+Gujrat	 Padra 	22.25	73.12	391440		
+Gujrat	 Palanpur 	24.20	72.47	385001		
+Gujrat	 Palitana 	21.52	71.88	364270		
+Gujrat	 Parantij 	23.43	72.92			
+Gujrat	 Patan 	23.87	72.02	364292		
+Gujrat	 Patan Patan (somnath) 	21.07	70.43			
+Gujrat	 Petlad 	22.48	72.08	388450		
+Gujrat	 Porbandar 	21.62	69.82	360550		
+Gujrat	 Port Okha 	22.25	69.02			
+Gujrat	 Radhanpur 	23.08	71.63	385340		
+Gujrat	 Rajkot 	22.30	70.93	360001		
+Gujrat	 Rapar 	23.53	70.07			
+Gujrat	 Sachin 	21.08	72.98	394230		
+Gujrat	 Sadra 	23.03	73.78	382320		
+Gujrat	 Saradiya 	21.58	70.08			
+Gujrat	 Satpura Range 	21.07	75.00			
+Gujrat	 Sidhpur 	23.75	72.62	384151		
+Gujrat	 Tapi R. 	21.33	74.50			
+Gujrat	 Taranga Hill 	24.05	72.73			
+Gujrat	 Tharad 	24.38	71.62	385565		
+Gujrat	 Vadodara 	22.00	73.27	390001		
+Gujrat	 Vankaner 	22.55	71.00			
+Gujrat	 Veraval 	20.88	73.43	362265		
+Gujrat	 Viramgam 	23.13	72.12	382150		
+Gujrat	 Visavadar 	21.37	70.87	362130		
+Gujrat	 Wadhwan (Surendranagar) 	22.72	71.72			
+Haryana	 Ambala 	30.35	76.87	133001		
+Haryana	 Bhiwani 	28.77	76.30	123020		
+Haryana	 Ellenabad 	29.43	74.90	125102		
+Haryana	 Faridabad 	28.42	77.37	121001		
+Haryana	 Fatehabad 	29.52	75.50	125050		
+Haryana	 Firozpur Jhirka 	27.78	76.98			
+Haryana	 Gurgaon 	28.62	77.07	122001		
+Haryana	 Hansi 	29.10	76.00	125033		
+Haryana	 Hisar 	29.17	75.77			
+Haryana	 Jind 	29.32	76.38	126102		
+Haryana	 Kaithal 	29.80	78.43	126134		
+Haryana	 Karnal 	29.70	77.03	132001		
+Haryana	 Ladwa 	29.98	77.08	125087		
+Haryana	 Loharu 	28.27	75.75	123201		
+Haryana	 Narnaul 	28.03	76.23	123001		
+Haryana	 Pataudi 	28.30	76.80	123503		
+Haryana	 Pehowa 	29.95	76.62	132128		
+Haryana	 Rania 	29.47	74.90	125076		
+Haryana	 Rewari 	28.20	76.07	123302		
+Haryana	 Rohtak 	28.90	76.63	124001		
+Haryana	 Rori 	29.73	75.28	125202		
+Haryana	 Shahabad 	30.02	76.92	241124		
+Haryana	 Thanesar 	29.97	76.93			
+Meghalaya	 Garo Hills (Tura) 	25.50	90.50			
+Meghalaya	 Khasi and Jaintia Hills 	25.50	91.50			
+Meghalaya	 Tura 	25.50	90.27	794001		
+Mizoram	 Aizawl 	23.60	93.00	796001		
+Nagaland	" Japvo, Mt. "	25.53	94.17			
+Nagaland	 Kohima 	25.67	94.13	797001		
+Nagaland	 Naga Hills 	26.00	94.33			
+Orissa	 Athgarh 	20.53	85.68	754029		
+Orissa	 Athmallik 	20.92	84.50	759125		
+Orissa	 Baleshwar 	21.50	86.90	756001		
+Orissa	 Banki 	20.35	85.55	225001		
+Orissa	 Baramba 	20.42	85.38			
+Orissa	 Baripada 	21.93	86.77	757001		
+Orissa	 Baudh 	20.83	84.87	760004		
+Orissa	 Berhampur 	19.30	84.85	760001		
+Orissa	 Bhadrakh 	21.05	86.55			
+Orissa	 Bhawani Patna 	19.97	83.20			
+Orissa	 Bhuban 	21.08	85.87	759017		
+Orissa	 Bhubaneshwar 	20.25	85.87			
+Orissa	 Black Pagoda (Konarak) 	19.88	86.13			
+Orissa	 Bolangir 	20.67	83.50	767001		
+Orissa	 Bonaigarh 	21.82	85.00			
+Orissa	 Borasambar 	20.97	83.00			
+Orissa	 Chatrapur 	19.35	85.05	760001		
+Orissa	 Chilka Lake 	19.83	85.50			
+Orissa	 Cuttack 	20.47	85.90	753001		
+Orissa	 Daspalla 	20.32	84.93	752084		
+Orissa	 Daspur 	21.97	86.12			
+Orissa	 Deograh 	21.53	84.77			
+Orissa	 Dhamra 	20.80	86.93			
+Orissa	 Dhenkanal 	20.67	85.63	759001		
+Orissa	 False Point 	20.33	86.77			
+Orissa	 Ganjam 	19.37	85.10	761026		
+Orissa	 Gopalpur 	19.27	84.95	756044		
+Orissa	 Hindol 	20.60	85.23	759022		
+Orissa	 Hirakund Dam and Res. 	21.50	84.00			
+Orissa	 Jaypore 	18.87	82.63	764001		
+Orissa	 Junagarh 	19.87	82.98	766014		
+Orissa	 Kainitira 	20.75	84.62			
+Orissa	 Kalahandi Karond 	19.67	83.00			
+Orissa	 Karanjia 	21.72	87.12	758044		
+Orissa	 Karond Kalahandi 	19.67	83.00			
+Orissa	 Kendrapara 	20.50	86.47	752018		
+Orissa	 Keonjhar (Nijgarh) 	21.50	85.50			
+Orissa	 Khandpara 	20.27	85.22			
+Orissa	 Khondmals 	20.70	84.33			
+Orissa	 Khurda 	20.18	85.67	752055		
+Orissa	 Kolabira 	21.82	84.25	768213		
+Orissa	 Konarak Black Pagoda 	19.88	86.13			
+Orissa	 Kotapad 	19.07	82.40			
+Orissa	 Lahara 	21.43	85.23			
+Orissa	 Mahanadi R. 	20.32	86.75			
+Orissa	 Malkangiri 	18.37	81.93	764036		
+Orissa	 Narsinghpur 	20.47	85.12	487001		
+Orissa	 Nayagarh 	20.13	85.13	752069		
+Orissa	 Nilgarh (Keonjhar) 	21.50	85.50			
+Orissa	 Nilgiri 	21.45	86.82			
+Orissa	 Palmyras Point 	20.75	87.03			
+Orissa	 Paradip 	20.05	86.92			
+Orissa	 Parlakimidi 	18.78	84.13			
+Orissa	 Patna 	20.00	83.20	800001		
+Orissa	 Puri 	19.80	85.87	751001		
+Orissa	 Ramagiri-Udayagiri 	19.07	83.92			
+Orissa	 Rampur 	21.08	84.37	175042		
+Orissa	 Ranpur 	20.07	85.38	363610		
+Orissa	 Rayagada 	19.15	83.45	754004		
+Orissa	 Rourkela 	22.42	85.00	769001		
+Orissa	 Sambalpur 	21.47	84.02	768001		
+Orissa	 Talcher 	20.95	85.27			
+Orissa	 Tigiria 	20.47	84.57	754030		
+Pondy	 Karaikal 	10.92	79.87	609601		
+Punjab	 Amritsar 	31.62	74.92	143001		
+Punjab	 Anandpur 	31.25	76.57	464112		
+Punjab	 Batala 	31.82	75.23	143505		
+Punjab	 Bathinda 	30.18	75.00			
+Punjab	 Charkhi Dadri 	28.62	76.32	123306		
+Punjab	 Dasuya 	31.82	75.70			
+Punjab	 Derababa' Nanak 	32.03	75.07			
+Punjab	 Dharmkot 	30.93	75.23			
+Punjab	 Dinanagar 	32.13	75.52			
+Punjab	 Dujana 	28.68	76.67	124102		
+Punjab	 Fazilka 	30.42	74.07			
+Punjab	 Firozpur 	30.92	74.67			
+Punjab	 Garshankar 	31.22	76.18			
+Punjab	 Gurdaspur 	32.05	75.45	143505		
+Punjab	 Hoshiarpur 	31.53	75.95	144105		
+Punjab	 Jalandhar 	31.32	75.57	144001		
+Punjab	 Jandiala 	31.85	75.62	141303		
+Punjab	 Kandaghat 	30.95	77.10	173215		
+Punjab	 Kapurthala 	31.38	75.42	141302		
+Punjab	 Kartarpur 	31.45	75.53	144801		
+Punjab	 Kot Kapura 	30.57	74.87			
+Punjab	 Ludhiana 	30.92	75.90	140801		
+Punjab	 Machhiwara 	30.92	76.25	141115		
+Punjab	 Majitha 	31.77	75.02	143601		
+Punjab	 Maler Kotla 	30.52	75.98			
+Punjab	 Mohindergarh 	28.28	76.23	123029		
+Punjab	 Muktsar 	30.50	74.72	152026		
+Punjab	 Nabha 	30.42	76.15	144624		
+Punjab	 Rupar 	30.95	76.53			
+Punjab	 Sanawar 	30.30	76.05	173202		
+Punjab	 Sangrur 	30.20	75.88	148001		
+Punjab	 Tanda Urmar 	31.67	76.68			
+Punjab	 Tarn Taran 	31.47	74.97			
+Punjab	 Una 	31.53	76.30	174302		
+Punjab	 Paiala 	30.03	76.42			
+Punjab	 Pathankot 	32.28	75.70	145001		
+Rajasthan	 Abu 	24.67	72.75	307501		
+Rajasthan	 Ajmer 	26.45	74.70	305001		
+Rajasthan	 Alwar 	27.57	76.63	301001		
+Rajasthan	 Amet 	25.33	73.98			
+Rajasthan	 Anupgarh 	29.12	73.10	335701		
+Rajasthan	 Aravali Range 	25.00	73.17			
+Rajasthan	 Asop 	26.80	73.73	342901		
+Rajasthan	 Bakhasar 	24.72	71.15			
+Rajasthan	 Balahera 	26.75	76.83			
+Rajasthan	 Balotra 	25.82	72.35	344022		
+Rajasthan	 Banas R° 	26.22	76.22			
+Rajasthan	 Banswara 	23.50	74.40	327001		
+Rajasthan	 Bap 	27.37	72.37	342307		
+Rajasthan	 Baran 	25.08	76.55	301422		
+Rajasthan	 Barmer 	25.75	71.42	343043		
+Rajasthan	 Baswa 	27.10	76.53	303327		
+Rajasthan	 Beawar 	26.10	74.35	305901		
+Rajasthan	 Bedla 	25.33	73.75	313016		
+Rajasthan	 Bhadra 	29.25	75.50			
+Rajasthan	 Bhadrajan 	25.60	72.90			
+Rajasthan	 Bharatpur 	27.25	77.50	321001		
+Rajasthan	 Bhhainsror 	24.97	75.60			
+Rajasthan	 Bhilwara 	25.35	74.67	305011		
+Rajasthan	 Bhinmal 	25.00	72.32	343029		
+Rajasthan	 Bikampur 	27.75	72.17			
+Rajasthan	 Bikaner 	28.02	73.37	334001		
+Rajasthan	 Birilpur 	28.18	72.25			
+Rajasthan	 Bissau 	28.28	75.13	331027		
+Rajasthan	 Bundi 	25.45	75.68	323001		
+Rajasthan	 Chatsu 	26.60	75.98			
+Rajasthan	 Chhabra 	24.67	76.90	325220		
+Rajasthan	 Chhoti Sadri 	22.40	74.57	312604		
+Rajasthan	 Chittaurgarh 	24.90	74.70			
+Rajasthan	 Chomu 	27.12	75.78	303702		
+Rajasthan	 Chotan 	25.47	71.10			
+Rajasthan	 Churu 	28.32	75.02	331001		
+Rajasthan	 Dag 	23.93	75.87	326514		
+Rajasthan	 Deoli 	25.77	75.42	304804		
+Rajasthan	 Deolia 	24.63	74.70			
+Rajasthan	 Devikot 	26.63	71.12			
+Rajasthan	 Dhebar L. 	24.50	74.00			
+Rajasthan	 Dholpur 	26.70	77.88	328001		
+Rajasthan	 Didwana 	27.28	74.42	303511		
+Rajasthan	 Dig 	27.47	77.33			
+Rajasthan	 Dungarpur 	23.83	73.83	314001		
+Rajasthan	 Eklingji 	24.72	73.77			
+Rajasthan	 Erinpura 	25.15	73.10			
+Rajasthan	 Fatehpur (Jaipur) 	28.00	75.03			
+Rajasthan	 Ganganagar 	29.82	73.83	335001		
+Rajasthan	 Gangapur 	26.48	75.77	221302		
+Rajasthan	 Gangrar 	23.93	75.68	312901		
+Rajasthan	 Gogundra 	24.77	73.57			
+Rajasthan	 Gotaru 	27.37	70.03			
+Rajasthan	 Great Indian Desert 	27.00	71.00			
+Rajasthan	 Gurha 	25.20	71.80			
+Rajasthan	 Hanumangarh 	29.58	74.35	335063		
+Rajasthan	 Indargarh 	25.67	76.25	475675		
+Rajasthan	 Jahazpur 	25.63	75.32	305409		
+Rajasthan	 Jaipur 	26.92	75.87	302001		
+Rajasthan	 Jaislmer 	26.92	70.95			
+Rajasthan	 Jalor 	25.37	72.97			
+Rajasthan	 Jhairapatan Chhaoni 	24.53	76.20			
+Rajasthan	 Jhunjhunu 	28.10	75.33	331026		
+Rajasthan	 Jodhpur 	26.30	73.07	342001		
+Rajasthan	 Karauli 	26.50	77.07	322204		
+Rajasthan	 Kekri 	25.93	75.33	305404		
+Rajasthan	 Kerwara 	24.07	73.67			
+Rajasthan	 Khandela 	27.60	75.53	332709		
+Rajasthan	 Kishangarh 	27.88	70.62	301405		
+Rajasthan	 Kota 	25.17	75.87	324001		
+Rajasthan	 Kotra 	24.37	73.25	307025		
+Rajasthan	 Lachmangarh Sikar 	27.83	75.07			
+Rajasthan	 Lalsot 	26.57	76.38	303503		
+Rajasthan	 Luni and R. 	26.02	73.03			
+Rajasthan	 Malpura 	26.30	75.42	304502		
+Rajasthan	 Mandalgarh 	25.20	75.15	311604		
+Rajasthan	 Marwar Junctioin 	25.72	73.75			
+Rajasthan	 Metra 	26.65	74.10			
+Rajasthan	 Mohangarh 	27.28	71.30	472101		
+Rajasthan	 Nachana 	27.15	71.75			
+Rajasthan	 Nagaur 	27.00	73.67	303610		
+Rajasthan	 Naraina 	26.83	74.18	110028		
+Rajasthan	 Nasirabad 	26.30	74.77	305601		
+Rajasthan	 Nathdwara 	25.93	73.87	313301		
+Rajasthan	 Nawalgarh 	27.85	75.30	333042		
+Rajasthan	 Nimbahera 	24.62	74.75	312601		
+Rajasthan	 Nohar 	29.18	74.82	335523		
+Rajasthan	 Pachbhandra 	25.92	72.24			
+Rajasthan	 Pali 	25.77	73.42	241123		
+Rajasthan	 Partabgarh 	24.03	74.07			
+Rajasthan	 Patan 	27.82	76.02	364292		
+Rajasthan	 Phalodi 	27.15	72.40	322026		
+Rajasthan	 Phulera 	26.87	75.27			
+Rajasthan	 Pipar 	26.37	73.58	342601		
+Rajasthan	 Pokaran 	26.92	71.97	345021		
+Rajasthan	 Pugal 	28.52	72.85			
+Rajasthan	 Rajgarh 	28.65	75.43	173101		
+Rajasthan	 Ramgarh 	28.02	76.25	263137		
+Rajasthan	 Ratangarh 	28.08	74.65	331022		
+Rajasthan	 Reni 	28.68	75.08	301409		
+Rajasthan	 Rewatsar 	29.27	74.43			
+Rajasthan	 Rupnagar 	26.80	74.90	140001		
+Rajasthan	 Salumbar 	24.15	74.08	313027		
+Rajasthan	 Sambhar & L. 	26.90	75.22			
+Rajasthan	 Sanchor 	24.60	71.90			
+Rajasthan	 Sanganer 	26.82	75.82			
+Rajasthan	 Sardarshahr 	28.45	74.53			
+Rajasthan	 Sawai Mahopur 	25.97	76.05			
+Rajasthan	 Shahabad 	25.02	77.03	241124		
+Rajasthan	 shahgarh 	27.13	69.95	470339		
+Rajasthan	 shahpura 	25.07	75.02	311404		
+Rajasthan	 shergarh 	24.07	76.53	281404		
+Rajasthan	 Sikar 	27.60	75.25	322214		
+Rajasthan	 Tantpur 	26.85	77.53			
+Rajasthan	 Toda Rai Singh 	26.00	75.70			
+Rajasthan	 Tonk 	26.18	75.83	304001		
+Rajasthan	 Udaipur 	27.70	75.55	307025		
+Sikkim	 Gangtok 	27.45	88.07	737101		
+Tamilnadu	 Adirampattinam 	10.35	79.42	614701		
+Tamilnadu	 Ambasamudram 	8.72	77.48	627401		
+Tamilnadu	 Ambur 	21.83	78.75	635802		
+Tamilnadu	 Anaimalai Hills 	10.40	76.67			
+Tamilnadu	 Arakkonam 	13.08	79.72			
+Tamilnadu	 Arantangi 	10.17	79.03			
+Tamilnadu	 Arcot 	12.93	79.40			
+Tamilnadu	 Arni 	12.67	79.32	445103		
+Tamilnadu	 Aruppukkotai 	9.52	78.13			
+Tamilnadu	 Attur 	11.60	78.65	574120		
+Tamilnadu	 Atur 	10.27	77.88	629191		
+Tamilnadu	 Bodinayakkanur 	10.02	77.40			
+Tamilnadu	" Calimere, Point "	10.30	79.87			
+Tamilnadu	 Carnatic 	12.00	80.00			
+Tamilnadu	 Chidambaram 	11.40	79.73	608001		
+Tamilnadu	 Chingleput 	12.70	80.02			
+Tamilnadu	 Coimbatore 	11.00	77.00	614208		
+Tamilnadu	" Comorin, C. "	8.07	77.60			
+Tamilnadu	 Coromandel Coast 	12.00	80.50			
+Tamilnadu	 Cuddalore 	11.72	79.82	603303		
+Tamilnadu	 Devakottai 	9.95	78.88			
+Tamilnadu	 Dhanushkodi 	9.17	79.47			
+Tamilnadu	 Dharapuram 	10.75	77.57			
+Tamilnadu	 Dharmapuri 	12.13	78.22	635001		
+Tamilnadu	 Dindigul 	10.37	78.00	624001		
+Tamilnadu	 Dodabetta. Mt. 	11.42	76.77			
+Tamilnadu	 Ennore 	13.23	80.37			
+Tamilnadu	 Erode 	11.33	77.77	624611		
+Tamilnadu	 Fort St David 	11.75	79.83			
+Tamilnadu	 Fort St George 	13.07	80.28	600009		
+Tamilnadu	 Gudiyatam 	12.95	78.92			
+Tamilnadu	 Hospur 	12.73	77.87			
+Tamilnadu	 Jalarpet 	12.57	78.62			
+Tamilnadu	 Javadi hills 	12.67	78.67			
+Tamilnadu	 Kanchipuram 	12.83	79.75			
+Tamilnadu	 Karur 	10.97	78.12	604213		
+Tamilnadu	 Kaveri R. 	11.33	77.83			
+Tamilnadu	 Kayalpatnam 	8.57	78.17	628204		
+Tamilnadu	 Kilakarai 	9.23	78.83	623517		
+Tamilnadu	 Kodaikanal 	10.22	77.53	624101		
+Tamilnadu	 Krishnagiri 	12.53	78.27	680733		
+Tamilnadu	 Kumbakonam 	10.97	79.42			
+Tamilnadu	 Madras (Chennai) 	13.07	80.28			
+Tamilnadu	 Madurai 	9.97	78.17	624215		
+Tamilnadu	 Madurantakam 	12.50	79.93	603306		
+Tamilnadu	 Mahabalipuram 	12.62	80.23			
+Tamilnadu	 Mannargudi 	10.67	79.48			
+Tamilnadu	 Mayuram 	11.10	79.70			
+Tamilnadu	 Mettupalaiyam 	11.30	76.98			
+Tamilnadu	 Mettur Dam 	11.87	77.83			
+Tamilnadu	 Nagarjunasagar Dam 	16.83	79.33			
+Tamilnadu	 Nagercoil 	8.18	77.48			
+Tamilnadu	 Namakkal 	11.05	78.22	637408		
+Tamilnadu	 Nanguneri 	8.48	77.73	627108		
+Tamilnadu	 Neiveli 	10.52	79.40			
+Tamilnadu	 Pachaimalai Hills 	11.25	78.05			
+Tamilnadu	 Padmanabhapuram 	9.10	76.08	629175		
+Tamilnadu	 Palayankottal 	8.72	77.77			
+Tamilnadu	 Palladam 	10.98	77.03	638664		
+Tamilnadu	 Pallavaram 	12.97	80.22	600043		
+Tamilnadu	 Pallivasal 	9.92	77.00	685565		
+Tamilnadu	 Palni Hills 	10.00	77.00			
+Tamilnadu	 Panruti 	11.78	79.58	607106		
+Tamilnadu	 Paramakkudi 	9.52	78.65			
+Tamilnadu	 Pattukkottal 	10.43	79.37			
+Tamilnadu	 Perambalur 	11.23	78.93	612101		
+Tamilnadu	 Periyakulam 	10.12	77.58	626534		
+Tamilnadu	 Pollachi 	10.65	77.05	642001		
+Tamilnadu	 Ponneri 	13.03	80.25	601204		
+Tamilnadu	 Porto Novo 	11.05	79.80			
+Tamilnadu	 Pudukkottal 	10.38	78.87			
+Tamilnadu	" Pulicat, L. "	13.42	80.35			
+Tamilnadu	 Rajapalayam 	9.45	77.60	626117		
+Tamilnadu	 Ramanathapuram 	9.37	78.87	623403		
+Tamilnadu	 Rameswaram 	9.28	79.37	623526		
+Tamilnadu	 Salem 	11.65	78.20	636001		
+Tamilnadu	 Sankaranayinarkovil 	9.02	77.58			
+Tamilnadu	 Sattur 	9.35	77.97	626203		
+Tamilnadu	 Satyamangalam 	11.05	77.28			
+Tamilnadu	 Seven Pagodas 	12.62	80.23			
+Tamilnadu	 shencottah 	8.98	77.30	627809		
+Tamilnadu	 shevaroy Hills 	12.20	78.05			
+Tamilnadu	 St. Thomas Mount 	13.22	80.23			
+Tamilnadu	 Tenkasi 	8.97	77.35			
+Tamilnadu	 Thanjavur (Tanjore) 	10.78	79.17			
+Tamilnadu	 Tindivanam 	12.23	79.70			
+Tamilnadu	 Tiruchchirappalli 	10.83	78.77			
+Tamilnadu	 Tiruchendur 	8.50	78.18	628215		
+Tamilnadu	 Tiruchengodu 	11.38	77.93			
+Tamilnadu	 Tirukkoyilur 	11.97	79.25			
+Tamilnadu	 Tirumangalam 	9.82	79.02	626706		
+Tamilnadu	 Tirunelveli 	8.73	77.73	623705		
+Tamilnadu	 Tiruppur 	11.08	77.33			
+Tamilnadu	 Tiruvallur 	13.15	79.95	600093		
+Tamilnadu	 Tiruvannamalai 	12.25	79.12	604408		
+Tamilnadu	 Tondi 	9.75	79.07	623409		
+Tamilnadu	 Tranquebar 	11.02	79.90			
+Tamilnadu	 Turaiyur 	11.15	78.63			
+Tamilnadu	 Tuticorin 	8.80	78.18			
+Tamilnadu	 Udagamandalam 	11.40	76.73			
+Tamilnadu	 Udamalpet 	10.60	77.28	642154		
+Tamilnadu	 Udiyarpalaiyam 	11.18	79.33			
+Tamilnadu	 Uttangarai 	12.27	78.58	635207		
+Tamilnadu	 Vaniyambadi 	12.68	78.65	635752		
+Tamilnadu	 Vellore 	12.92	79.18	600050		
+Tamilnadu	 Villupuram 	11.95	79.53			
+Tamilnadu	 Virudhunagar 	9.58	77.95	609314		
+Tamilnadu	 Vriddhachalam 	11.53	79.40			
+Tamilnadu	 Wandiwash 	12.50	79.50			
+Tamilnadu	 Yercaud 	11.80	78.22	636601		
+Tripura	 Agartala 	23.83	91.42	799002		
+Tripura	 Udaipur 	23.52	91.52	307025		
+UP	 Agra 	27.17	78.08	282001		
+UP	 Ahraura 	24.98	83.03	231301		
+UP	 Akbarpur 	24.73	85.53	209101		
+UP	 Aligarh 	27.50	79.67	202001		
+UP	 Allahabad 	25.47	81.90	211001		
+UP	 Amethi 	26.13	81.83	227120		
+UP	 Amroha 	28.90	78.52	244221		
+UP	 Ayodhya 	26.80	82.23	224123		
+UP	 Azamgarh 	26.05	83.22	221601		
+UP	 Bahraich 	27.57	81.63	271801		
+UP	 Ballia 	25.73	84.18	221701		
+UP	 Banda 	25.33	80.37	210001		
+UP	 Bansi 	27.17	82.93	272153		
+UP	 Barabanki 	26.93	81.22	225001		
+UP	 Bareilly 	28.37	79.45	243001		
+UP	 Barhaj 	26.27	83.77	274601		
+UP	 Basti 	26.80	82.77	272001		
+UP	 Belagunj 	25.93	82.03			
+UP	 Benares (Varanasi) 	25.33	83.00			
+UP	 Bhadohi 	25.40	82.63	221401		
+UP	 Bijnor 	29.38	79.18	246701		
+UP	 Bindki 	26.03	80.55	212635		
+UP	 Bithur 	26.62	80.32			
+UP	 Brindaban (Vrindavan) 	27.55	77.73			
+UP	 Budaun 	28.03	79.17	243601		
+UP	 Bulandshahr 	28.40	77.90	202389		
+UP	 Chandausi 	28.45	78.82	202412		
+UP	 Charkhari 	25.43	79.75			
+UP	 Dalmau 	26.12	81.08	229203		
+UP	 Deoband 	29.70	77.72	247554		
+UP	 Deoria 	26.38	83.70	224137		
+UP	 Etah 	27.58	78.67	202132		
+UP	 Etawah 	26.78	79.03	206001		
+UP	 Faizabad 	26.78	82.20	209723		
+UP	 Farrukhabad 	27.40	79.62	209625		
+UP	 Fatehgarh 	27.38	79.67	209601		
+UP	 Fatehpur 	25.92	80.87	212601		
+UP	 Firozabad 	27.15	78.40	205141		
+UP	 Ghaghara R. 	27.50	81.33			
+UP	 Ghatampur 	26.13	80.22	209206		
+UP	 Ghaziabad 	28.67	77.47	201001		
+UP	 Ghazipur 	25.57	83.58	212621		
+UP	 Gomatin R. 	27.25	80.63			
+UP	 Gonda 	27.47	82.02	202123		
+UP	 Gorakhpur 	26.75	83.40	273001		
+UP	 Hamirpur 	25.97	80.20	174304		
+UP	 Hapur 	28.72	77.83	245101		
+UP	 Hardoi 	27.38	80.17	241001		
+UP	 Hathras 	27.60	78.10	204101		
+UP	 Jalalpur 	26.30	82.73	224149		
+UP	 Jalaun 	26.13	79.38	285001		
+UP	 Jaunpur 	25.77	82.73	222001		
+UP	 Jhansi 	25.45	78.62	284001		
+UP	 Jigni 	25.73	79.42			
+UP	 Kadaura 	25.98	79.87			
+UP	 Kamasin 	25.52	80.93	210125		
+UP	 Kannauj 	27.05	79.97	209725		
+UP	 Kanpur 	26.47	80.40	208001		
+UP	 Kheri 	27.90	80.80	261502		
+UP	 Khurja 	28.25	77.83	203131		
+UP	 Koil Aligarh 	27.90	78.10			
+UP	 Lakhimpur 	27.95	80.82	784160		
+UP	 Lalitpur 	24.37	78.47	284123		
+UP	 Lucknow 	26.92	80.98	226001		
+UP	 Machhlishahr 	25.68	82.45			
+UP	 Mahoba 	25.30	79.92	210427		
+UP	 Mainpuri 	27.23	79.05	205001		
+UP	 Mathura 	27.47	77.68	204101		
+UP	 Mau 	25.95	83.60	477222		
+UP	 Meerut 	29.02	77.75	245206		
+UP	 Mehndawal 	26.97	83.17			
+UP	 Mirzapur 	25.17	82.62	221501		
+UP	 Moradabad 	28.85	78.82	202412		
+UP	 Mughal Serai 	25.28	83.18			
+UP	 Muzaffarnagar 	29.47	77.73	247775		
+UP	 Nagina 	29.45	77.48	246762		
+UP	 Nanpapa 	27.87	81.55			
+UP	 Nawabganj 	26.93	82.20	207501		
+UP	 Nihasan 	28.23	80.92			
+UP	 Orai 	25.98	79.05	285001		
+UP	 Padrauna 	26.90	84.02	274304		
+UP	 Pertabgarh (Pratapgarh) 	25.57	81.98			
+UP	 Phulpur 	25.53	82.12	212402		
+UP	 Pillbhit 	28.63	79.85			
+UP	 Pratapgarh(Partabgarh) 	25.57	81.98			
+UP	 Rae Bareli 	26.23	81.27	229001		
+UP	 Rampur 	28.80	79.08	175042		
+UP	 Rohikhand 	28.05	79.00			
+UP	 Saharanpur 	29.97	77.38	247001		
+UP	 Saidpur 	25.53	83.27	202525		
+UP	 Sambhal 	28.58	78.62	244302		
+UP	 Sarila 	25.77	79.72			
+UP	 Shahabad 	27.05	80.08	241124		
+UP	 shahjahanpur 	27.90	79.95	242001		
+UP	 Sidhauli 	27.30	80.08			
+UP	 Sikandara 	27.22	77.97			
+UP	 Tanda 	26.55	82.70	224190		
+UP	 Terai Swamp 	29.00	80.00			
+UP	 Unnao 	26.80	80.72	209801		
+UP	 Uska 	27.23	83.20			
+UP	 Utaraula 	27.32	82.47			
+UP	 Varanasi 	25.33	83.00	221001		
+UP	 Varuna 	25.42	83.00			
+UP	 Vrindavan 	27.55	77.73	400086		
+UP	 Yamuna R. 	25.50	81.17			
+Uttarakhand	 Almora 	29.62	79.67	244711		
+Uttarakhand	 Badrinath 	30.73	79.53	246422		
+Uttarakhand	 DehraDun 	30.32	78.07	248001		
+Uttarakhand	 Garhwal 	30.22	79.50	124316		
+Uttarakhand	 Haridwar 	29.97	78.22			
+Uttarakhand	" Kamet, Mt. "	30.93	79.60			
+Uttarakhand	 Mussoorie 	30.45	78.10	248179		
+Uttarakhand	 NainiTal 	29.38	79.50	244714		
+Uttarakhand	 Ranikhet 	29.07	79.55			
+Uttarakhand	 Roorkee 	29.87	77.88	247667		
+Uttarakhand	 Tehri 	30.33	78.88			
+Uttarakhand	 Tanakpur 	29.17	80.30	262309		
+West Bengal	 Alipur 	22.53	88.40	110036		
+West Bengal	 Arambagh 	22.88	87.83			
+West Bengal	 Asansol 	23.70	87.02			
+West Bengal	 Baharampur 	24.10	88.32			
+West Bengal	 Baksa Duar 	26.75	89.58			
+West Bengal	 Balurghat 	25.23	88.78	700056		
+West Bengal	 Bankura 	23.23	87.12	721101		
+West Bengal	 Barackpore 	22.77	88.40			
+West Bengal	 Baranagar 	22.63	88.37	700036		
+West Bengal	 Barddhaman 	23.27	87.90			
+West Bengal	 Beldanga 	23.97	88.33			
+West Bengal	 Benapol 	23.07	88.53			
+West Bengal	 Bhadreswar 	22.82	88.33	712124		
+West Bengal	 Bhatpara 	22.90	88.42			
+West Bengal	 Bishnupur 	23.08	87.38	712601		
+West Bengal	 Calcutta 	22.57	88.40	700001		
+West Bengal	 Chandernagore 	22.87	88.42			
+West Bengal	 Chandrakona 	22.73	87.55			
+West Bengal	 Chanduria 	22.93	88.92			
+West Bengal	 Chinsura 	22.88	88.45			
+West Bengal	 Chittaranjan 	23.83	87.00	713331		
+West Bengal	 Contai 	21.83	87.80			
+West Bengal	" Damodar, R. "	23.28	87.58			
+West Bengal	 Darjilling 	27.05	88.30			
+West Bengal	 Diamond Harbour 	22.18	88.23			
+West Bengal	 Dum-Dum 	22.63	88.63			
+West Bengal	 Duragapur 	23.50	87.33			
+West Bengal	 Haora 	22.58	88.38			
+West Bengal	 Ingraj Bazar 	25.00	88.18			
+West Bengal	 Jalpaiguri 	26.53	88.77	735101		
+West Bengal	 Jangipur 	24.47	88.08	742213		
+West Bengal	 Katoya 	23.65	88.18			
+West Bengal	 Kharagpur 	22.50	87.33	721301		
+West Bengal	 Koch Bihar 	26.33	89.48			
+West Bengal	 Kotalpur 	23.02	87.63	722141		
+West Bengal	 Krishnanagar 	23.40	88.55	211003		
+West Bengal	 Lalbagh 	24.22	88.32	226001		
+West Bengal	 Mehinipur 	22.42	87.35			
+West Bengal	 Murshidabad 	24.18	88.32	741188		
+West Bengal	 Nabadwip 	23.40	88.38			
+West Bengal	 Nalhati 	22.90	88.47	731220		
+West Bengal	 Purulliya 	23.03	88.47			
+West Bengal	 Raghunathpur 	23.53	86.72	712247		
+West Bengal	 Ramaghat 	23.18	88.62			
+West Bengal	 Raniganj 	25.87	87.87	227816		
+West Bengal	 Sagar I. 	21.07	88.02			
+West Bengal	 Santipur 	23.23	88.48	741404		
+West Bengal	 Serampore 	22.75	88.38			
+West Bengal	 Siliguri 	26.70	88.42			
+West Bengal	 Tamluk 	22.30	87.97			
+West Bengal	 Tilpara 	23.97	87.53			
+Himachal Pradesh	 Baned 	31.50	76.92			
+Himachal Pradesh	 Bhakra Gorge Dam 	32.08	76.83			
+Himachal Pradesh	 Biiaspur 	31.32	76.83			
+Himachal Pradesh	 Chamba 	32.48	76.17	176207		
+Himachal Pradesh	 Chhachrauli 	30.30	77.45			
+Himachal Pradesh	 Dagshai 	30.88	77.10	173210		
+Himachal Pradesh	 Dharmsala 	32.27	76.38			
+Himachal Pradesh	 Jawalamukhi 	31.88	76.37			
+Himachal Pradesh	 Jogindernagar 	31.83	76.75			
+Himachal Pradesh	 Kangra 	32.12	76.30	176001		32° 05' E
+Himachal Pradesh	 Kasauli 	30.88	77.02	173204		
+Himachal Pradesh	 Kothkhai 	31.13	77.60			
+Himachal Pradesh	 Mandi 	31.72	76.97	174401		
+Himachal Pradesh	 Nagrota 	32.12	76.38			
+Himachal Pradesh	 Nahan 	30.55	77.35	173001		
+Himachal Pradesh	 Nalagarh 	30.12	76.37	174101		
+Himachal Pradesh	 Nurpur 	32.30	75.93	176202		
+Himachal Pradesh	 Shimla 	31.10	77.22	171001		
+Himachal Pradesh	 Yol 	32.18	76.38			
+Jammu and Kashmir	 Baltistan 	35.50	76.00			
+Jammu and Kashmir	 Baramula 	34.17	74.50			
+Jammu and Kashmir	 Bhadarwah 	33.07	75.67			
+Jammu and Kashmir	 Dras 	34.37	75.83			
+Jammu and Kashmir	" Godwin Austen (K2), Mt. "	35.50	76.53			
+Jammu and Kashmir	 Gulmarg 	34.25	74.42	193403		
+Jammu and Kashmir	 Gurais 	34.63	74.93			
+Jammu and Kashmir	 Jammu 	32.72	74.90	180001		
+Jammu and Kashmir	 Kapalu 	35.17	76.33			
+Jammu and Kashmir	 Kargil 	34.50	76.22	194102		
+Jammu and Kashmir	 Kathua 	32.28	75.60	184101		
+Jammu and Kashmir	 Khartaksho 	34.88	76.17			
+Jammu and Kashmir	 Kishtwar 	33.32	75.80	182204		
+Jammu and Kashmir	 Kotli 	33.50	73.95	175003		
+Jammu and Kashmir	 Ladakh Range 	32.00	80.00			
+Jammu and Kashmir	 Leh 	34.17	77.67	194101		
+Jammu and Kashmir	 Mirpur 	33.20	73.85	845507		
+Jammu and Kashmir	 Muzaffarabad 	34.40	73.37			
+Jammu and Kashmir	" Nanga Parbat, Mt. "	35.33	74.67			
+Jammu and Kashmir	 Naoshera 	33.22	74.28	190011		
+Jammu and Kashmir	 Padam 	33.47	76.90			
+Jammu and Kashmir	 Pir Panjal Pass 	33.60	74.37			
+Jammu and Kashmir	 Punch 	33.85	74.13			
+Jammu and Kashmir	 Ramnagar 	32.87	75.37	201009		
+Jammu and Kashmir	 Udampur 	32.92	75.15			
+Jammu and Kashmir	 Zangla 	30.67	77.00			
+Jammu and Kashmir	 Zaskar 	33.50	77.00			
+Jammu and Kashmir	 Anantnar 	33.72	75.28			
+Jammu and Kashmir	 Karakoram Range 	36.17	75.00			
+Jarkhand	 Barakar R. 	24.17	86.33			
+Jarkhand	 Basia 	22.87	84.88	835229		
+Jarkhand	 Chaibassa 	22.55	85.85			
+Jarkhand	 Chatra 	24.20	84.93	814143		
+Jarkhand	 Chota Nagpur 	23.00	85.00			
+Jarkhand	 Daltenganj 	24.03	84.07			
+Jarkhand	 Dhanbad 	23.78	86.50	826001		
+Jarkhand	 Doranda 	23.37	85.37			
+Jarkhand	 Garhwa 	24.17	83.87	822114		
+Jarkhand	 Giridih 	24.17	86.35	815301		
+Jarkhand	 Gobindpur 	23.85	86.57	828109		
+Jarkhand	 Hazaribagh 	23.98	85.42	825101		
+Jarkhand	 Ichak 	24.08	85.42	825402		
+Jarkhand	 Jamshedpur 	22.83	86.17	831001		
+Jarkhand	 Jharia 	23.83	86.55	828111		
+Jarkhand	 Kharsawan 	22.80	85.87			
+Jarkhand	 Lohardaga 	23.43	84.70	835213		
+Jarkhand	 Messanjore 	24.08	87.35			
+Jarkhand	 Pakaur 	24.63	87.90	814111		
+Jarkhand	 Palamau 	23.87	84.28			
+Jarkhand	 Palkot 	22.87	84.68	835220		
+Jarkhand	 Parasnath Mt. 	22.00	86.18			
+Jarkhand	 Porahat 	22.60	85.97			
+Jarkhand	 Rajmahal 	25.05	87.88	816108		
+Jarkhand	 Ramgarh 	23.63	85.57	263137		
+Jarkhand	 Ranchi 	23.38	85.38	829208		
+Jarkhand	 Sahibganj 	25.22	87.07	816109		
+Jarkhand	 Santal Parganas 	24.05	87.00			
+Jarkhand	 Saraikela 	22.70	85.97			
+Jarkhand	 Simaria 	24.08	84.97	825103		
+Jarkhand	 Tilaiya 	24.33	85.52			
+Karnataka	 Aland 	17.60	76.58	571151		
+Karnataka	 Anagundi 	15.35	76.55			
+Karnataka	 Athni 	16.73	75.10	591304		
+Karnataka	 Bagalkot 	16.20	75.75	585256		
+Karnataka	 Bagevadi 	16.55	76.08			
+Karnataka	 Bangalore 	12.97	77.63	560001		
+Karnataka	 Bantval 	12.88	75.08			
+Karnataka	 Belgaum 	15.87	74.57	562103		
+Karnataka	 Bellary 	15.15	76.92	583101		
+Karnataka	 Bhadravati 	13.87	75.67	442902		
+Karnataka	 Bhalki 	18.07	77.17	585328		
+Karnataka	 Bidar 	17.92	77.65	585226		
+Karnataka	 Bijapur 	16.83	75.78	586101		
+Karnataka	 Chamrajnagar 	11.93	77.00			
+Karnataka	 Channapatna 	12.63	77.22	571501		
+Karnataka	 Chickballapur 	13.43	77.77			
+Karnataka	 Chikmagalur 	13.30	75.82	577168		
+Karnataka	 Chiknayakanhalli 	13.42	76.67	572119		
+Karnataka	 Chitradurga 	14.23	76.43	572160		
+Karnataka	 Coondapoor 	13.63	74.70			
+Karnataka	 Davangere 	14.52	75.97	577001		
+Karnataka	 Deodrug 	16.42	77.00			
+Karnataka	 Dharwar 	15.45	75.08	580001		
+Karnataka	 Dod-Ballapur 	13.23	77.38			
+Karnataka	 Gadag 	15.42	75.70	582115		
+Karnataka	 Gangawati 	15.50	76.60	581202		
+Karnataka	 Gersoppa (Jog) Falls 	14.30	74.92			
+Karnataka	 Gokak 	16.18	74.87	591307		
+Karnataka	 Gulbarga 	17.32	76.90	577423		
+Karnataka	 Hamipi (Vijanagar) 	15.33	76.50			
+Karnataka	 Hangai 	14.77	75.20			
+Karnataka	 Harihar 	14.52	75.87	577516		
+Karnataka	 Harnhalli 	13.25	76.20			
+Karnataka	 Harpanahalli 	14.78	75.97			
+Karnataka	 Hassan 	13.02	76.17	573103		
+Karnataka	 Hiriyur 	13.95	76.67	572143		
+Karnataka	 Hole Narsipur 	12.78	76.28	573210		
+Karnataka	 Homnabad 	17.72	77.20	585261		
+Karnataka	 Honavar 	14.28	74.48	581334		
+Karnataka	 Honnali 	14.25	75.68	577153		
+Karnataka	 Hosdurga 	13.80	76.33			
+Karnataka	 Hospet 	15.27	76.43	583273		
+Karnataka	 Hubli 	15.33	75.20	580212		
+Karnataka	 Hunsur 	12.30	76.32	571105		
+Karnataka	 Jamkhandi 	16.50	75.33	586140		
+Karnataka	 Jog Falls (Gersoppa Falls) 	14.30	74.92			
+Karnataka	 Kadur 	13.55	76.05	573132		
+Karnataka	 Kallur 	16.20	77.13	507209		
+Karnataka	 Kalyani 	17.88	76.98	741235		
+Karnataka	 Karkala 	13.20	75.00	574104		
+Karnataka	 Karwar 	14.80	74.18	581186		
+Karnataka	 Khanpur 	15.70	74.58	245405		
+Karnataka	 Kolar 	13.15	78.18	561206		
+Karnataka	 Kollegal 	12.15	77.15	571320		
+Karnataka	 Kollur 	13.88	74.88	508101		
+Karnataka	 Kopbal 	15.33	76.22			
+Karnataka	 Kotturu 	14.82	76.27	583134		
+Karnataka	 Krishnaraj Res. 	12.33	76.53			
+Karnataka	" Kudremukh, Peak "	13.17	75.25			
+Karnataka	 Kumta 	14.43	74.45	581343		
+Karnataka	 Lingsugur 	16.12	76.57	584124		
+Karnataka	 Londa 	16.00	74.83	591301		
+Karnataka	 Mangalore 	12.87	74.88	571329		
+Karnataka	 Manvi 	19.30	76.50	584123		
+Karnataka	 Mercara 	12.43	75.78			
+Karnataka	 Muddebihal 	16.33	76.17	586212		
+Karnataka	 Mudhol 	16.33	75.33	583259		
+Karnataka	 Mulbagal 	13.18	78.23	563131		
+Karnataka	 Mysore 	12.30	76.70	570001		
+Karnataka	 Nanjangud 	12.12	76.73	571301		
+Karnataka	 Puttur 	12.75	75.02	517583		
+Karnataka	 Ramanagaram 	12.90	78.03	571511		
+Karnataka	 Ramdurg 	15.97	75.37	591123		
+Karnataka	 Ranibennur 	14.55	75.68	581141		
+Karnataka	 Robertosonpet 	12.97	78.27			
+Karnataka	 Sagar 	16.62	76.85	470001		
+Karnataka	 Sandur 	15.03	76.60	583119		
+Karnataka	 Savanur 	14.97	75.32	581118		
+Karnataka	 Shahabad 	17.02	78.18	241124		
+Karnataka	 shahapur 	15.08	74.57	400064		
+Karnataka	 shikarpur 	14.27	75.40	202395		
+Karnataka	 Shimoga 	13.93	75.63	577201		
+Karnataka	 Talguppa 	14.17	74.87			
+Karnataka	 Tarikere 	13.70	75.85	572120		
+Karnataka	 Tumkur 	13.33	77.13	561202		
+Karnataka	 Udipi 	13.33	74.75			
+Karnataka	 Vanivilas Sagar 	13.83	76.42			
+Karnataka	 Vijayanagar (Hampi) 	15.33	76.50			
+Karnataka	 Wadi 	17.00	76.95	440023		
+Karnataka	 Yelandur 	12.08	77.00	571441		
+Kerala	 Alleppey 	9.50	76.38	688005		
+Kerala	 Alwaye 	10.12	76.40			
+Kerala	 Anjengo 	8.67	76.80	695309		
+Kerala	 Beypore 	11.17	75.83	673015		
+Kerala	 Calicut (Kozhikode) 	11.25	75.82			
+Kerala	 Cannonore (Kannur) 	11.87	75.42			
+Kerala	 Cardamon Hills 	9.45	76.87			
+Kerala	 Chittur 	10.70	76.78			
+Kerala	 Cochin 	9.97	76.28			
+Kerala	 Ernakulam 	10.00	76.25	680504		
+Kerala	 Kasaragod 	12.50	75.00	671121		
+Kerala	 Kottayam 	9.60	76.57	680724		
+Kerala	 Mahe 	11.70	75.57	673310		
+Kerala	 Mattancheri 	9.95	76.28	682002		
+Kerala	 Nilgiri Hills 	11.47	76.78			
+Kerala	 Palghat 	10.77	76.70	678005		
+Kerala	 Peermade (Permad) 	9.05	77.03			
+Kerala	 Periyar R. 	10.00	76.87			
+Kerala	 Ponnani 	10.78	75.97			
+Kerala	 Qulion (Kollam) 	8.90	76.63			
+Kerala	 Tellicherry (Thalaserry) 	11.75	75.53			
+Kerala	 Trichur 	10.50	76.25			
+Kerala	 Trivandrum (Thiruvananthapuram) 	8.48	76.98			
+Kerala	 Vaikam 	9.75	76.45			
+Kerala	 Vypin I. 	9.97	79.28			
+Madhya Pradesh	 Adegaon 	22.63	79.53			
+Madhya Pradesh	 Agar 	23.73	76.07	262534		
+Madhya Pradesh	 Ajaigarh 	24.88	80.22	488220		
+Madhya Pradesh	 Ali Rajpur 	22.18	74.40			
+Madhya Pradesh	 Alipura 	25.17	79.37	561224		
+Madhya Pradesh	 Amjhera 	22.53	75.17	454441		
+Madhya Pradesh	 Ashta 	23.02	76.63			
+Madhya Pradesh	 Badnur 	22.33	78.50			
+Madhya Pradesh	 Baghelkhand 	24.17	82.00			
+Madhya Pradesh	 Balaghat 	21.80	80.25	481001		
+Madhya Pradesh	 Banka Pahari 	25.23	80.83			
+Madhya Pradesh	 Barannda 	25.05	80.67			
+Madhya Pradesh	 Bardi 	24.50	82.43			
+Madhya Pradesh	 Barwani 	22.05	74.95	451551		
+Madhya Pradesh	 Beri 	25.92	79.92	124201		
+Madhya Pradesh	 Betul 	22.47	78.63	460001		
+Madhya Pradesh	 Bhadaura 	24.80	77.43			
+Madhya Pradesh	 Bhainsdehi 	21.65	77.67			
+Madhya Pradesh	 Bhind 	26.60	78.77	477001		
+Madhya Pradesh	 Bhopal 	23.27	77.60	462001		
+Madhya Pradesh	 Biaora 	23.92	76.95	465674		
+Madhya Pradesh	 Bijawar 	24.63	79.53			
+Madhya Pradesh	 Bijji 	18.03	81.40			
+Madhya Pradesh	 Bijna 	25.45	79.08			
+Madhya Pradesh	 Bundelkhand 	24.67	80.00			
+Madhya Pradesh	 Burhanpur 	21.28	76.28	450331		
+Madhya Pradesh	 Chambal R. 	25.67	76.33			
+Madhya Pradesh	 Chanderi 	24.70	78.18			
+Madhya Pradesh	 Chhatarpur 	24.90	79.63	471001		
+Madhya Pradesh	 Chhindwara 	22.05	78.98	480001		
+Madhya Pradesh	 Damoh 	23.83	79.48	470661		
+Madhya Pradesh	 Datia 	25.65	78.45	475661		
+Madhya Pradesh	 Deogarh 	21.85	78.83	313331		
+Madhya Pradesh	 Dewas 	22.97	78.10	455001		
+Madhya Pradesh	 Dhar 	22.58	75.33	451115		
+Madhya Pradesh	 Dhurwai 	25.47	79.12			
+Madhya Pradesh	 Dindori 	22.95	81.68	481990		
+Madhya Pradesh	 Gadarwara 	22.93	78.83	487551		
+Madhya Pradesh	 Garha 	24.42	78.05	144022		
+Madhya Pradesh	 Garrauli 	25.08	79.40			
+Madhya Pradesh	 Gaurihar 	25.27	80.20			
+Madhya Pradesh	 Guna 	24.67	77.33	473001		
+Madhya Pradesh	 Gwalior 	26.23	78.17	474001		
+Madhya Pradesh	 Harai 	22.62	79.30			
+Madhya Pradesh	 Hoshangabad 	22.77	77.75	461001		
+Madhya Pradesh	 Indore 	22.73	75.83	452001		
+Madhya Pradesh	 Itarsi 	22.50	77.92	461111		
+Madhya Pradesh	 Jabalpur 	23.17	79.98	482001		
+Madhya Pradesh	 Janakpur 	23.72	81.83	497778		
+Madhya Pradesh	 Jaora 	23.72	75.15			
+Madhya Pradesh	 Jaso 	24.50	80.53	485551		
+Madhya Pradesh	 Jhabua 	22.75	74.63	457661		
+Madhya Pradesh	 Jobat 	22.48	74.62	457990		
+Madhya Pradesh	 Kaimur 	24.50	81.27	804408		
+Madhya Pradesh	 Katangi 	21.78	79.85	481445		
+Madhya Pradesh	 Katni 	23.78	80.45	451661		
+Madhya Pradesh	 Khachrod 	23.42	75.33	456224		
+Madhya Pradesh	 Khaniadhana 	25.02	78.12	473990		
+Madhya Pradesh	 Khilchipur 	24.03	76.62	465679		
+Madhya Pradesh	 Khurai 	24.05	78.38	470117		
+Madhya Pradesh	 Korwai 	24.12	78.08			
+Madhya Pradesh	 Kothi 	24.75	80.67	225119		
+Madhya Pradesh	 Kukshi 	22.22	74.80	454331		
+Madhya Pradesh	 Lakhnadon 	22.60	79.65			
+Madhya Pradesh	 Lashkar 	26.17	78.17	474001		
+Madhya Pradesh	 Lugasi 	25.08	79.62			
+Madhya Pradesh	 Mahadeo Hills 	22.40	78.00			
+Madhya Pradesh	 Maheshwar 	22.18	75.62			
+Madhya Pradesh	 Maihar 	24.27	80.82	485771		
+Madhya Pradesh	 Makrai 	22.07	77.13			
+Madhya Pradesh	 Mandla 	22.72	80.58	481584		
+Madhya Pradesh	 Mandsaur 	24.05	75.13	458001		
+Madhya Pradesh	 Manohar Thana 	24.28	76.75	326037		
+Madhya Pradesh	 Manpur 	22.40	75.67	453661		
+Madhya Pradesh	 Mau 	22.25	80.22	477222		
+Madhya Pradesh	 Mauganj 	24.67	81.93	486331		
+Madhya Pradesh	 Mehidpur 	23.48	75.70			
+Madhya Pradesh	 Mhow 	22.57	75.78	453441		
+Madhya Pradesh	 Muhammadgarh 	23.65	78.22			
+Madhya Pradesh	 Murwara 	23.85	80.03			
+Madhya Pradesh	 Nagod (Unchahra) 	22.55	80.62			
+Madhya Pradesh	 Narsimhapur 	22.95	79.25			
+Madhya Pradesh	 Narsinghgarh 	23.73	77.13	470675		
+Madhya Pradesh	 Narwar 	25.65	77.88	456664		
+Madhya Pradesh	 Nawab Basoda 	23.62	78.23			
+Madhya Pradesh	 Neemuch 	24.45	74.87	458441		
+Madhya Pradesh	 Nemawar 	22.50	77.00	455339		
+Madhya Pradesh	 Nowgon 	25.05	79.05			
+Madhya Pradesh	 Orchha 	25.35	78.63	472246		
+Madhya Pradesh	 Pachapahar 	24.42	75.08			
+Madhya Pradesh	 Pachmarhi 	22.05	78.37	461881		
+Madhya Pradesh	 Panna 	24.73	80.23	488001		
+Madhya Pradesh	 Panth Piploda 	23.62	75.03			
+Madhya Pradesh	 Paron 	24.95	76.08			
+Madhya Pradesh	 Pathari 	23.93	78.25	464337		
+Madhya Pradesh	 Penganga R. 	20.00	77.00			
+Madhya Pradesh	 Pirawa 	24.20	76.10	326034		
+Madhya Pradesh	 Pitihra 	23.07	79.03			
+Madhya Pradesh	 Rabkok (Dharmajaygarh) 	22.47	83.25			
+Madhya Pradesh	 Raghugarh 	24.43	77.25			
+Madhya Pradesh	 Raisen 	23.25	77.08	464551		
+Madhya Pradesh	 Rajgarh 	24.40	76.78	173101		
+Madhya Pradesh	 Ramnagar 	24.18	81.20	201009		
+Madhya Pradesh	 Ramnagar 	22.60	80.55	201009		
+Madhya Pradesh	 Rampura 	23.47	75.05	285127		
+Madhya Pradesh	 Ratlam 	23.52	75.12	457001		
+Madhya Pradesh	 Rehli 	23.63	79.08	470227		
+Madhya Pradesh	 Sagar 	23.08	78.08	470001		
+Madhya Pradesh	 Sailana 	23.52	75.02	457550		
+Madhya Pradesh	 Salbai 	25.85	78.32			
+Madhya Pradesh	 Samthar 	25.85	78.82	284304		
+Madhya Pradesh	 Sarangpur 	21.60	83.12	465697		
+Madhya Pradesh	 Satna 	24.57	80.92	485001		
+Madhya Pradesh	 Sehore 	23.20	77.00	466001		
+Madhya Pradesh	 Seoni 	22.10	79.58	480661		
+Madhya Pradesh	 Seoni-Malwa 	22.47	77.48			
+Madhya Pradesh	 shahdol 	23.00	81.05	484001		
+Madhya Pradesh	 shahpur 	21.22	76.25	251318		
+Madhya Pradesh	 shahpura 	23.02	80.75	311404		
+Madhya Pradesh	 shajapur 	23.43	76.30	465001		
+Madhya Pradesh	 sheopur 	25.65	76.68	221003		
+Madhya Pradesh	 Shivpuri 	25.07	77.73	473551		
+Madhya Pradesh	 Shujalpur 	23.40	76.57			
+Madhya Pradesh	 Sidhi 	24.03	82.65	486661		
+Madhya Pradesh	 Sihora 	23.48	80.15	483225		
+Madhya Pradesh	 Tikamgarh (Tehri) 	24.75	78.88			
+Madhya Pradesh	 Tori Fathpur 	25.47	79.13			
+Madhya Pradesh	 Ujjain 	23.15	75.72	456001		
+Madhya Pradesh	 Umaria 	23.50	80.88	485226		
+Madhya Pradesh	 Unchahra (Nagod) 	24.55	80.62			
+Madhya Pradesh	 Vidisha 	23.53	77.85	464001		
+Madhya Pradesh	 Vindhya Mts. 	22.50	76.00			
+Maharastra	 Achalpur 	21.30	77.55			
+Maharastra	 Ahiri 	19.50	80.50			
+Maharastra	 Ahmadnagar 	19.08	74.80			
+Maharastra	 Ajanta 	20.55	75.80			
+Maharastra	 Ajanta Range 	20.33	77.17			
+Maharastra	 Akalkot 	17.52	76.85			
+Maharastra	 Akola 	20.70	77.03	422601		
+Maharastra	 Akot 	21.10	77.10	444101		
+Maharastra	 Alibag 	18.65	72.92	400704		
+Maharastra	 Ambgaon 	20.63	80.00			
+Maharastra	 Amravati 	20.93	77.80	713214		
+Maharastra	 Armoi 	20.47	80.03			
+Maharastra	 Ashti 	18.83	75.25	400002		
+Maharastra	 Ashti 	21.20	78.23	400002		
+Maharastra	 Assaye 	20.25	75.97			
+Maharastra	 Aundh 	17.55	74.38	415510		
+Maharastra	 Aurangabad 	19.88	75.38	221001		
+Maharastra	 Badnera 	20.87	77.77	444701		
+Maharastra	 Balapur 	20.70	76.87	444302		
+Maharastra	 Balharshah 	19.92	79.38			
+Maharastra	 Bandra 	19.05	75.87			
+Maharastra	 Bankot 	17.97	73.08	415201		
+Maharastra	 Barsi 	18.22	75.73			
+Maharastra	 Basim 	20.08	77.17			
+Maharastra	 Basmat 	19.37	77.20			
+Maharastra	 Bassein 	19.37	72.93	401201		
+Maharastra	 Bhandara 	21.15	79.70	441601		
+Maharastra	 Bhor 	18.15	73.90	412206		
+Maharastra	 Bhusawal 	21.03	75.78			
+Maharastra	 Bir 	19.00	75.83	175041		
+Maharastra	" Bombay, (Mumbai) "	18.92	72.90			
+Maharastra	 Bori 	20.92	79.08	413543		
+Maharastra	 Bramhapuri 	20.67	79.93			
+Maharastra	 Buldana 	20.53	76.23			
+Maharastra	 Chalisgaon 	20.55	75.17	400081		
+Maharastra	 Chandor 	20.33	74.32	403714		
+Maharastra	 Chandrapur 	19.95	79.35	441205		
+Maharastra	 Chikalda 	21.40	77.37			
+Maharastra	 Chopda 	21.25	75.33	400008		
+Maharastra	 Daulatabad 	19.95	75.25	122109		
+Maharastra	 Deglur 	18.57	77.55			
+Maharastra	 Deoli 	20.65	78.53	304804		
+Maharastra	 Dhond 	18.53	74.67			
+Maharastra	 Dhule 	20.97	74.78	424001		
+Maharastra	 Ellora 	20.03	75.22			
+Maharastra	 Gangakher 	18.87	76.72			
+Maharastra	 Gawilgarh 	21.37	77.42			
+Maharastra	 Gondia 	21.47	80.48	441605		
+Maharastra	 Hinganghat 	20.57	78.88	442301		
+Maharastra	 Hingoli 	19.72	77.18	431513		
+Maharastra	 Igatpur 	19.67	73.58			
+Maharastra	 Jalgaon 	21.08	75.67	413204		
+Maharastra	 Jalna 	19.85	75.93	444703		
+Maharastra	 Jamkhed 	18.72	75.40	400010		
+Maharastra	 Janjira 	18.30	73.00			
+Maharastra	 Jath 	17.05	75.25			
+Maharastra	 Jawhar 	19.87	73.35	401603		
+Maharastra	 Junnar 	19.20	73.97	410502		
+Maharastra	 Kadirabad 	19.85	75.93			
+Maharastra	 Kalyan 	19.23	73.17			
+Maharastra	 Kamptee 	21.23	79.25			
+Maharastra	 Karad 	17.25	74.20	332723		
+Maharastra	 Karanja 	20.48	77.53	444105		
+Maharastra	 Karmala 	18.40	75.25	413203		
+Maharastra	 Khamgaon 	20.70	76.62			
+Maharastra	 Khapa 	21.42	79.03	441101		
+Maharastra	 Khed 	18.85	73.93	415709		
+Maharastra	 Khuldabad Rauza 	20.02	75.25			
+Maharastra	 Kirkee 	18.55	73.90			
+Maharastra	 Kolhapur 	16.70	74.27	416001		
+Maharastra	 Kondalwadi 	18.25	77.72			
+Maharastra	 Kopargaon 	19.90	74.55	423601		
+Maharastra	" Koyna, R. "	17.50	73.75			
+Maharastra	 Kurundvad 	16.67	74.67	416106		
+Maharastra	 Latur 	18.40	76.60	413512		
+Maharastra	 Lonavla 	18.73	73.47			
+Maharastra	 Mahabaleshwar 	17.97	73.72	412806		
+Maharastra	 Malegaon 	20.50	74.67	444503		
+Maharastra	 Malkapur 	20.88	76.28	415101		
+Maharastra	 Malvan 	16.05	73.50			
+Maharastra	 Mangaon 	18.25	73.33	402104		
+Maharastra	 Manmad 	20.25	74.48	423104		
+Maharastra	 Mansar 	21.40	79.32	441406		
+Maharastra	 Matheran 	18.98	73.30	410102		
+Maharastra	 Mazalgaon 	19.13	76.22			
+Maharastra	 Miraj 	16.82	74.72	400055		
+Maharastra	 Mominabad (Amba) 	18.73	76.38			
+Maharastra	 Mukher 	18.70	77.40			
+Maharastra	 Mul 	20.07	79.72	441224		
+Maharastra	" Mulshi, L. "	18.83	73.83			
+Maharastra	 Murud 	18.30	72.98	413510		
+Maharastra	 Nagpur 	21.15	79.15	440001		
+Maharastra	 Naldurg 	17.82	76.33	413602		
+Maharastra	 Nanded 	19.15	77.45	431531		
+Maharastra	 Nandurbar 	21.38	74.32	425409		
+Maharastra	 Nasik 	20.03	73.83	422004		
+Maharastra	 Osmanabad 	18.13	76.10	413405		
+Maharastra	 Pachora 	20.63	75.48	424201		
+Maharastra	 Paithan 	19.48	75.43	431107		
+Maharastra	 Pandharpur 	17.68	75.38			
+Maharastra	 Parbhani 	19.13	76.08	431401		
+Maharastra	 Parenda 	18.27	75.05			
+Maharastra	 Parli 	18.88	76.60			
+Maharastra	 Pauni 	20.80	79.07			
+Maharastra	 Phaltan 	18.00	74.48	415523		
+Maharastra	 Pune 	18.52	73.92	410301		
+Maharastra	 Rahuri 	19.38	74.70	413705		
+Maharastra	 Rajapur 	16.65	73.55	210205		
+Maharastra	 Rajur 	20.13	78.08	422604		
+Maharastra	 Rajura 	20.13	78.08			
+Maharastra	 Ramtek 	21.40	79.03	441106		
+Maharastra	 Ratnagiri 	17.13	73.32	415201		
+Maharastra	 Rauza (khuldabad) 	20.02	75.25			
+Maharastra	 Sahyadriparvat Range 	20.05	76.00			
+Maharastra	 Sakoli 	21.08	80.02			
+Maharastra	 Sangamner 	19.58	74.27	422605		
+Maharastra	 Sangli 	16.87	74.60	413318		
+Maharastra	 Satara 	17.70	74.03	412801		
+Maharastra	 Savantvadi 	15.90	73.87			
+Maharastra	 shegaon 	20.80	76.77	444203		
+Maharastra	 Shrigonda 	18.68	74.73	413701		
+Maharastra	 Taloda 	21.57	74.32			
+Maharastra	 Tarapur 	19.87	72.70	401502		
+Maharastra	 Thane 	19.20	73.03	400601		
+Maharastra	 Tuljapur 	18.03	76.17	413601		
+Maharastra	 Tumsar 	20.25	80.32	441912		
+Maharastra	 Udgir 	18.42	77.17	413517		
+Maharastra	 Ulhasnagar 	19.33	73.17	421001		
+Maharastra	 Umrer 	20.30	79.35			
+Maharastra	 Vaijapur 	19.98	74.80	423701		
+Maharastra	 Vengurla 	15.87	73.67	416516		
+Maharastra	 Vijayadurg 	16.43	73.43			
+Maharastra	 Wai 	17.95	73.93	431734		
+Maharastra	 Wardha & dist. 	20.75	78.65			
+Maharastra	 Warora 	20.23	79.03			
+Maharastra	 Yeola 	20.07	74.52	423401		
+Maharastra	 Yeotmal 	20.38	78.18			
+Manipur	 Imphal 	24.73	93.97	795001		
+Manipur	 Loktak L. 	24.50	93.92			
+Andamans	 Car Nicobar 	11.68	92.15	744301		
+Andamans	" Port Blair, South Andaman Island "	11.68	92.72			

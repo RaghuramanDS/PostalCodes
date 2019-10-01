@@ -1,0 +1,12 @@
+name: PostalCodes
+title: PostalCodes
+username:
+account: hobbitsam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1259238
+bundleId: 2452208
+url: https://hobbitsam.shinyapps.io/PostalCodes/
+when: 1569746857.76861
+asMultiple: FALSE
+asStatic: FALSE
